@@ -1,0 +1,6 @@
+{
+  "Name": "CorreoClasificadorIA",
+  "ProjectType": "Process",
+  "Description": "Clasificación automática de correos con IA",
+  "MainFile": "Main.xaml"
+}
