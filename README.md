@@ -105,6 +105,12 @@ FacturasDescargadas
 Facturas procesadas
 <img width="1043" height="231" alt="image" src="https://github.com/user-attachments/assets/0bb04b83-82af-4f7e-b581-9ebaaa78e314" />
 
+Tener etiquetas en el correo gmail para que el bot pueda realizar la clasificación
+
+<img width="255" height="268" alt="image" src="https://github.com/user-attachments/assets/501af145-2583-41b4-9bb7-640594ffbcdc" />
+
+
+
 
 ⚠️ Nota Importante sobre la Configuración del Correo
 
@@ -174,9 +180,4 @@ Seleccionar la nueva conexión desde el cuadro Connection
 Repetir en todas las actividades que usen correo
 
 <img width="712" height="173" alt="image" src="https://github.com/user-attachments/assets/33c9c4f8-b412-4e62-a70b-bda222e5e156" />
-
-
-Tener etiquetas en el correo gmail para que el bot pueda realizar la clasificación
-
-<img width="255" height="268" alt="image" src="https://github.com/user-attachments/assets/501af145-2583-41b4-9bb7-640594ffbcdc" />
 
