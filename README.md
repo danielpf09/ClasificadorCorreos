@@ -105,6 +105,77 @@ FacturasDescargadas
 Facturas procesadas
 <img width="1043" height="231" alt="image" src="https://github.com/user-attachments/assets/0bb04b83-82af-4f7e-b581-9ebaaa78e314" />
 
+
+⚠️ Nota Importante sobre la Configuración del Correo
+
+Este bot viene configurado inicialmente con un correo personal utilizado durante el desarrollo.
+Por esta razón, después de descargar el proyecto desde Git, es obligatorio actualizar la cuenta de correo en las actividades relacionadas con el envío y la lectura de emails.
+
+Si este ajuste no se realiza, el bot intentará usar una cuenta que no pertenece al usuario y generará errores de autenticación.
+
+📌 ¿Qué actividades usan correo y deben ser modificadas?
+
+Dentro del proyecto, aparecen actividades que requieren configuración manual según el correo del usuario:
+
+1. Actividades de Gmail (UiPath GSuite Activities)
+
+Send Email
+
+Get Mail Messages
+
+Save Mail Attachments
+
+Reply to Email
+
+Connection / Use Connection
+
+Estas actividades quedan enlazadas a la cuenta con la que se desarrolló el bot.
+
+
+📌 Cómo cambiar la cuenta de correo en UiPath
+✔️ Opción 1: Cambiar la conexión existente
+
+Abrir UiPath Studio
+
+Abrir el archivo Main.xaml
+
+Seleccionar cualquier actividad de correo
+
+En el panel derecho, localizar:
+
+Connection → Use Connection
+o
+ConnectionAccountName
+
+Presionar Manage Connections
+
+Eliminar la conexión existente
+
+Crear una nueva conexión con el correo del usuario
+
+Autorizar desde Google en el navegador
+
+Guardar los cambios
+
+✔️ Opción 2: Crear una nueva conexión y asignarla a todas las actividades
+
+Abrir UiPath Assistant
+
+Ir a Preferences → Orchestrator Settings → Manage Connections
+
+Añadir una nueva conexión Gmail
+
+Regresar a UiPath Studio
+
+Abrir cualquier actividad de Gmail
+
+Seleccionar la nueva conexión desde el cuadro Connection
+
+Repetir en todas las actividades que usen correo
+
+<img width="712" height="173" alt="image" src="https://github.com/user-attachments/assets/33c9c4f8-b412-4e62-a70b-bda222e5e156" />
+
+
 Tener etiquetas en el correo gmail para que el bot pueda realizar la clasificación
 
 <img width="255" height="268" alt="image" src="https://github.com/user-attachments/assets/501af145-2583-41b4-9bb7-640594ffbcdc" />
