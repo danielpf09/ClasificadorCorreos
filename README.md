@@ -7,7 +7,7 @@ UiPath Studio Community (gratuita)
 
 UiPath Studio Enterprise (requiere licenciamiento)
 
-Para el proyecto, Daniel puede usar la versión Community.
+Para el proyecto, puede usar la versión Community (recomendado).
 
 Pasos para descargar:
 
@@ -40,7 +40,7 @@ UiPathStudio.msi
 
 📌 2. Instalación de UiPath Studio
 
-Cuando Daniel abra el instalador:
+Cuando abra el instalador:
 
 Selecciona Install for me (recomendado).
 
@@ -54,13 +54,13 @@ Componentes del robot local
 
 Al finalizar, aparecerá UiPath Studio para iniciar sesión.
 
-Daniel debe iniciar sesión con la misma cuenta que usó en cloud.uipath.com.
+Debe iniciar sesión con la misma cuenta que usó en cloud.uipath.com.
 
 📌 3. Conexión de UiPath Studio con UiPath Cloud
 
 Una vez Studio esté abierto:
 
-Daniel va a la esquina inferior izquierda:
+Ir a la esquina inferior izquierda:
 “Orchestrator Settings” o “Robot Settings”.
 
 UiPath Assistant se abre automáticamente.
@@ -69,7 +69,7 @@ En UiPath Assistant:
 
 Asegura que el modo esté en Connected.
 
-Si aparece Disconnected, Daniel hace clic en Sign in.
+Si aparece Disconnected, hace clic en Sign in.
 
 Cuando la conexión queda establecida, Studio muestra un círculo verde indicando que está conectado al Orchestrator.
 
@@ -93,7 +93,7 @@ Este suele ser el flujo principal del robot.
 
 UiPath Studio suele pedir actualizar paquetes.
 
-Daniel debe ir a:
+ir a:
 
 Manage Packages → Updates → Update All
 
