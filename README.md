@@ -103,3 +103,9 @@ El robot utiliza rutas como:
 
 FacturasDescargadas
 Facturas procesadas
+<img width="1043" height="231" alt="image" src="https://github.com/user-attachments/assets/0bb04b83-82af-4f7e-b581-9ebaaa78e314" />
+
+Tener etiquetas en el correo gmail para que el bot pueda realizar la clasificación
+
+<img width="255" height="268" alt="image" src="https://github.com/user-attachments/assets/501af145-2583-41b4-9bb7-640594ffbcdc" />
+
