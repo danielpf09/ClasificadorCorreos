@@ -54,67 +54,69 @@
   </TextExpression.NamespacesForImplementation>
   <TextExpression.ReferencesForImplementation>
     <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>GlobalVariables5C7bjoN0HF</AssemblyReference>
       <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
       <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>NPOI.Core</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
       <AssemblyReference>System</AssemblyReference>
       <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.Collections.Immutable</AssemblyReference>
+      <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
       <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
       <AssemblyReference>System.Core</AssemblyReference>
       <AssemblyReference>System.Data</AssemblyReference>
       <AssemblyReference>System.Data.Common</AssemblyReference>
       <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Data.SqlClient</AssemblyReference>
       <AssemblyReference>System.Drawing</AssemblyReference>
       <AssemblyReference>System.Drawing.Common</AssemblyReference>
       <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
       <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Linq.Async</AssemblyReference>
+      <AssemblyReference>System.Linq.Async.Queryable</AssemblyReference>
+      <AssemblyReference>System.Linq.Expressions</AssemblyReference>
+      <AssemblyReference>System.Linq.Parallel</AssemblyReference>
+      <AssemblyReference>System.Linq.Queryable</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Memory.Data</AssemblyReference>
       <AssemblyReference>System.Net.Mail</AssemblyReference>
       <AssemblyReference>System.ObjectModel</AssemblyReference>
       <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Private.Xml</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
       <AssemblyReference>System.Xaml</AssemblyReference>
       <AssemblyReference>System.Xml</AssemblyReference>
       <AssemblyReference>System.Xml.Linq</AssemblyReference>
-      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
-      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
-      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
-      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
-      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
-      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
-      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
-      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
       <AssemblyReference>UiPath.Excel</AssemblyReference>
       <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
-      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
-      <AssemblyReference>PresentationFramework</AssemblyReference>
-      <AssemblyReference>WindowsBase</AssemblyReference>
-      <AssemblyReference>System.ComponentModel</AssemblyReference>
-      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
-      <AssemblyReference>System.Private.Xml</AssemblyReference>
-      <AssemblyReference>UiPath.Web.Activities</AssemblyReference>
-      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
-      <AssemblyReference>UiPath.GSuite.Activities</AssemblyReference>
-      <AssemblyReference>UiPath.Platform</AssemblyReference>
-      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
-      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
-      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
       <AssemblyReference>UiPath.GSuite</AssemblyReference>
+      <AssemblyReference>UiPath.GSuite.Activities</AssemblyReference>
       <AssemblyReference>UiPath.Mail</AssemblyReference>
-      <AssemblyReference>System.Memory.Data</AssemblyReference>
-      <AssemblyReference>System.Console</AssemblyReference>
-      <AssemblyReference>System.Security.Permissions</AssemblyReference>
-      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
-      <AssemblyReference>System.Memory</AssemblyReference>
-      <AssemblyReference>System.Private.Uri</AssemblyReference>
-      <AssemblyReference>System.Linq.Async</AssemblyReference>
-      <AssemblyReference>System.Collections</AssemblyReference>
-      <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
-      <AssemblyReference>System.Linq.Expressions</AssemblyReference>
-      <AssemblyReference>NPOI.Core</AssemblyReference>
-      <AssemblyReference>System.Linq.Async.Queryable</AssemblyReference>
-      <AssemblyReference>System.Collections.Immutable</AssemblyReference>
-      <AssemblyReference>System.Linq.Parallel</AssemblyReference>
-      <AssemblyReference>System.Linq.Queryable</AssemblyReference>
-      <AssemblyReference>System.Data.SqlClient</AssemblyReference>
-      <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Web.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Workflow</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
   <Sequence DisplayName="Facturas" sap:VirtualizedContainerService.HintSize="1288,1886" sap2010:WorkflowViewState.IdRef="Sequence_1">
@@ -198,7 +200,7 @@
           <InArgument x:TypeArguments="x:String">[String.Join(", ", dtbFacturas.AsEnumerable().GroupBy(Function(r) r("Centro de costos o sucursal").ToString()).Select(Function(g) g.Key &amp; ": " &amp; g.Sum(Function(r) CDbl(r("Total unidades")) * CDbl(r("Precio unitario")) * (1 + CDbl(r("IVA aplicado").ToString().Replace("%", "").Trim())/100)).ToString("C")).ToArray())]</InArgument>
         </Assign.Value>
       </Assign>
-      <uga:SendEmailConnections ArgumentAttachmentPaths="{x:Null}" ArgumentAttachments="{x:Null}" AttachmentPaths="{x:Null}" Bcc="{x:Null}" Cc="{x:Null}" ConnectionAccountName="{x:Null}" ContinueOnError="{x:Null}" ReplyTo="{x:Null}" SingleAttachment="{x:Null}" TextBody="{x:Null}" AttachmentInputMode="UseExisting" AuthScopesInvalid="False" Body="[string.Format(&quot;&lt;P&gt;&lt;SPAN&gt;&#xD;&#xA;&amp;#128200; Resumen de Factura Procesada&#xD;&#xA;&#xD;&#xA;N&amp;#250;mero Factura: &amp;quot; &amp;amp; dtbFacturas.Rows(0)(&amp;quot;N&amp;#250;mero de factura&amp;quot;).ToString() &amp;amp; &amp;quot;&#xD;&#xA;Proveedor: &amp;quot; &amp;amp; dtbFacturas.Rows(0)(&amp;quot;Proveedor&amp;quot;).ToString() &amp;amp; &amp;quot;&#xD;&#xA;Fecha Vencimiento: &amp;quot; &amp;amp; dtbFacturas.Rows(0)(&amp;quot;Fecha de vencimiento&amp;quot;).ToString() &amp;amp; &amp;quot;&#xD;&#xA;Total (con IVA): &amp;quot; &amp;amp; totalFactura &amp;amp; &amp;quot;&#xD;&#xA;Centro de Costos: &amp;quot; &amp;amp; dtbFacturas.Rows(0)(&amp;quot;Centro de costos o sucursal&amp;quot;).ToString() &amp;amp; &amp;quot;&#xD;&#xA;Producto m&amp;#225;s caro: &amp;quot; &amp;amp; productoMasCaro &amp;amp; &amp;quot;&#xD;&#xA;Estado: &amp;quot; &amp;amp; dtbFacturas.Rows(0)(&amp;quot;Estado de pago&amp;quot;).ToString() &amp;amp; &amp;quot;&#xD;&#xA;&#xD;&#xA;Resumen por Centro de Costos:&#xD;&#xA;&amp;quot; &amp;amp; resumenCategorias &amp;amp; &amp;quot;&#xD;&#xA;&#xD;&#xA;&amp;#128231; Contacto proveedor: &amp;quot; &amp;amp; dtbFacturas.Rows(0)(&amp;quot;Email proveedor&amp;quot;).ToString() &amp;amp; &amp;quot;&#xD;&#xA;&lt;/SPAN&gt;&lt;/P&gt;&quot;)]" ConnectionId="dcf92cf9-1f48-4eb2-8f77-3c40a1ed87b0" DisplayName="Send Email" sap:VirtualizedContainerService.HintSize="580,526" sap2010:WorkflowViewState.IdRef="SendEmailConnections_1" Importance="Normal" InputType="HTML" SaveAsDraft="True" Subject="[&quot;Factura procesda &quot; + in_mails.Subject]" To="[New String(){&quot;danielperez@unicomfacauca.edu.co&quot;,&quot;dperefer@emeal.nttdata.com&quot;}]" UseConnectionService="True">
+      <uga:SendEmailConnections ArgumentAttachmentPaths="{x:Null}" ArgumentAttachments="{x:Null}" AttachmentPaths="{x:Null}" Bcc="{x:Null}" Cc="{x:Null}" ConnectionAccountName="{x:Null}" ContinueOnError="{x:Null}" ReplyTo="{x:Null}" SingleAttachment="{x:Null}" TextBody="{x:Null}" AttachmentInputMode="UseExisting" AuthScopesInvalid="False" Body="[string.Format(&quot;&lt;P&gt;&lt;SPAN&gt;&#xA;&amp;#128200; Resumen de Factura Procesada&#xA;&#xA;N&amp;#250;mero Factura: &amp;quot; &amp;amp; dtbFacturas.Rows(0)(&amp;quot;N&amp;#250;mero de factura&amp;quot;).ToString() &amp;amp; &amp;quot;&#xA;Proveedor: &amp;quot; &amp;amp; dtbFacturas.Rows(0)(&amp;quot;Proveedor&amp;quot;).ToString() &amp;amp; &amp;quot;&#xA;Fecha Vencimiento: &amp;quot; &amp;amp; dtbFacturas.Rows(0)(&amp;quot;Fecha de vencimiento&amp;quot;).ToString() &amp;amp; &amp;quot;&#xA;Total (con IVA): &amp;quot; &amp;amp; totalFactura &amp;amp; &amp;quot;&#xA;Centro de Costos: &amp;quot; &amp;amp; dtbFacturas.Rows(0)(&amp;quot;Centro de costos o sucursal&amp;quot;).ToString() &amp;amp; &amp;quot;&#xA;Producto m&amp;#225;s caro: &amp;quot; &amp;amp; productoMasCaro &amp;amp; &amp;quot;&#xA;Estado: &amp;quot; &amp;amp; dtbFacturas.Rows(0)(&amp;quot;Estado de pago&amp;quot;).ToString() &amp;amp; &amp;quot;&#xA;&#xA;Resumen por Centro de Costos:&#xA;&amp;quot; &amp;amp; resumenCategorias &amp;amp; &amp;quot;&#xA;&#xA;&amp;#128231; Contacto proveedor: &amp;quot; &amp;amp; dtbFacturas.Rows(0)(&amp;quot;Email proveedor&amp;quot;).ToString() &amp;amp; &amp;quot;&#xA;&lt;/SPAN&gt;&lt;/P&gt;&quot;)]" ConnectionId="dcf92cf9-1f48-4eb2-8f77-3c40a1ed87b0" DisplayName="Send Email" sap:VirtualizedContainerService.HintSize="580,526" sap2010:WorkflowViewState.IdRef="SendEmailConnections_1" Importance="Normal" InputType="HTML" SaveAsDraft="True" Subject="[&quot;Factura procesda &quot; + in_mails.Subject]" To="[New String(){&quot;danielperez@unicomfacauca.edu.co&quot;,&quot;dperefer@emeal.nttdata.com&quot;}]" UseConnectionService="True">
         <uga:SendEmailConnections.Attachments>
           <InArgument x:TypeArguments="scg:IEnumerable(upr:IResource)" />
         </uga:SendEmailConnections.Attachments>
